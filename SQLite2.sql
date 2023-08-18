@@ -1,0 +1,6 @@
+-- SQLite
+CREATE TABLE ok(
+name INTEGER
+);
+INSERT INTO ok (name)
+VALUES (7392985);
